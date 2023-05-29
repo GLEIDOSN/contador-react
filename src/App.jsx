@@ -1,4 +1,4 @@
-import MeuContador from "./assets/components/MeuContador"
+import MeuContador from "./components/MeuContador"
 
 function App() {
 

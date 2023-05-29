@@ -1,0 +1,27 @@
+# Arquivos gerados pelo npm
+node_modules/
+
+# Arquivos gerados pelo Yarn
+yarn.lock
+
+# Arquivos específicos do React
+*.env
+*.log
+build/
+coverage/
+
+# Cache do Jest
+.cache/
+
+# Arquivos de compilação
+dist/
+
+# Dependências nativas do iOS
+ios/Pods/
+ios/Podfile.lock
+ios/Podfile.lock
+
+# Dependências nativas do Android
+android/build/
+android/app/google-services.json
+android/app/debug.keystore
